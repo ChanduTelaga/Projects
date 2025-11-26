@@ -9,8 +9,8 @@ body {
 }
 
 .container {
-    width: 14rem;
-    height: 22rem;
+    width: 15rem;
+    height: 23rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     margin: auto;
@@ -23,8 +23,8 @@ body {
 }
 
 .container img {
-    width: 13rem;
-    height: 14rem;
+    width: 14rem;
+    height: 15rem;
     align-self: center;
     margin-bottom: 10px;
     border-radius: 17px;

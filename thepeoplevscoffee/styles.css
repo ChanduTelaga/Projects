@@ -217,9 +217,11 @@ button {
   padding: 10px 0;
 }
 
+ 
 .secondpage_container span {
-  /* padding: 5px; */
-}
+  padding: 5px;
+} 
+
 
 /* .container2 img {
   width: 40vw;
